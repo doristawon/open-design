@@ -40,7 +40,7 @@ jobs:
           # lowlighter/metrics infers the token owner and treats the target as an org.
           template: repository
           base: ''
-          user: nexu-io
+          user: doristawon
           repo: open-design
 
           # Plugins. Anything that requires a personal token will silently no-op
